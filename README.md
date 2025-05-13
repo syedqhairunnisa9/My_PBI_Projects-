@@ -1,5 +1,3 @@
-Sure! Here's a polished and professional README introduction you can use for your GitHub repository that showcases all your self-made Power BI projects:
-
 ---
 
 # 📘 Power BI Projects Portfolio
@@ -27,7 +25,7 @@ Welcome to my **Power BI Projects Portfolio**! This repository is a collection o
 1. **Data Professional Survey Breakdown**
    Insightful analysis of 630 data professionals covering salary, job satisfaction, and career challenges.
 
-2. *(Add your next project here with a short description...)*
+2. *(Coming Soon...)*
 
 ## 🔗 How to View
 
